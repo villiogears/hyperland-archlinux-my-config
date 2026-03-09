@@ -1,0 +1,16 @@
+/* Nord Theme for Rofi */
+configuration {
+    font: "Fira Code 13";
+    background: "#2E3440";
+    foreground: "#D8DEE9";
+    border-color: "#5E81AC";
+    border-radius: 8px;
+}
+window {
+    background-color: #2E3440;
+    border-radius: 8px;
+}
+mainbox {
+    background-color: #3B4252;
+    border-radius: 8px;
+}

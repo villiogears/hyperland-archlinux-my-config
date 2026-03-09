@@ -1,0 +1,23 @@
+/* Nord Theme for Waybar */
+@import url('https://fonts.googleapis.com/css?family=Fira+Code');
+* {
+    font-family: 'Fira Code', monospace;
+    font-size: 13px;
+    color: #D8DEE9;
+}
+window {
+    background-color: #2E3440;
+    border-radius: 8px;
+}
+#workspaces button {
+    background: #4C566A;
+    border-radius: 6px;
+    margin: 2px;
+    padding: 4px 8px;
+}
+#clock, #tray, #pulseaudio, #network {
+    background: #3B4252;
+    border-radius: 6px;
+    margin: 2px;
+    padding: 4px 8px;
+}
