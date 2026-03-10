@@ -15,7 +15,7 @@ configuration {
     window-shadow: true;
 }
 window {
-    background-color: rgba(46,52,64,0.95);
+    background-color: rgba(13, 34, 77, 0.95);
     border-radius: 12px;
     box-shadow: 0 8px 32px 0 rgba(94,129,172,0.3);
     padding: 24px;
